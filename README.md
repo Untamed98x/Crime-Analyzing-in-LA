@@ -20,6 +20,7 @@ Histogram: Visualizes the distribution of victim ages.
 Count Plot: Shows crime counts by area.
 Scatter Plot: Displays crime locations on a map.
 Box Plot: Explores the distribution of crime codes by area.
+Cor Heat Maps.png
 Step 5: Creating a Crime Heatmap (Folium)
 We import the Folium library to create interactive maps.
 Calculate crime counts by location (latitude and longitude), sort them, and select the top 10 locations.
